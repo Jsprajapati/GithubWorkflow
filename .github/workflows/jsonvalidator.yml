@@ -2,7 +2,7 @@ name: JSON check
 on:
   pull_request:
     paths:
-      - 'Ancd/*.json'
+      - '**.json'
 
 env:
   BASE: "Ancd"
