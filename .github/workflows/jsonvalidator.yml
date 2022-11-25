@@ -1,6 +1,9 @@
 name: JSON check
 on:
   pull_request:
+    paths:
+      - 'Ancd/*.json'
+
 
 jobs:
   test:
