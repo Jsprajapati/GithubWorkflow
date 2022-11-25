@@ -4,6 +4,9 @@ on:
     paths:
       - 'Ancd/*.json'
 
+env:
+  BASE: "Ancd"
+
 
 jobs:
   test:
