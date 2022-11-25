@@ -1,0 +1,12 @@
+{
+    "addr": [
+        "tcp://abcd:8008",
+        "tcp://dde:80"
+    ],
+    "meta": {
+        "owner_email": "abcd@gmail.com",
+        "owner_name": "abcd",
+        "jira_component": "prov",
+        "jira_sub_component": "prov-core"
+    }
+}
